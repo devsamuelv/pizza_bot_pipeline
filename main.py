@@ -1,7 +1,5 @@
 import socket
 
-from socket import UD
-
 
 def getInput():
     return input("[L/R]: ")
